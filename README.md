@@ -22,7 +22,7 @@ satisfaction rating, suggesting compensation or role-fit factors matter as much 
 
 ## Visual
 
-![HR Analytics Dashboard](screenshots/dashboard-view.png)
+![HR Analytics Dashboard](screenshots/dashboard-overview.png)
 
 ## Files
 
