@@ -22,5 +22,5 @@ satisfaction rating, suggesting compensation or role-fit factors matter as much 
 
 ## Files
 
-- `[filename].pbix` — Power BI report file
-- `screenshots/` — dashboard and Power App views
+- `HRanalysis.pbix` — Power BI report file
+- `screenshots/dashboard-view.png` — dashboard and Power App views
