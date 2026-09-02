@@ -20,6 +20,10 @@ Power BI (DAX, Power Query), Power Apps, SharePoint, Excel
 Attrition doesn't concentrate purely at low satisfaction scores — the highest attrition count actually falls at a mid-level 
 satisfaction rating, suggesting compensation or role-fit factors matter as much as stated satisfaction.
 
+## Visual
+
+![HR Analytics Dashboard](screenshots/dashboard-view.png)
+
 ## Files
 
 - `HRanalysis.pbix` — Power BI report file
